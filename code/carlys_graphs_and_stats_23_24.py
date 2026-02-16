@@ -1,12 +1,12 @@
-import pandas as pd                 # Importing the pandas library for working with datasets.
-import matplotlib.pyplot as plt     # Importing the matplotlib library for creating visualizations. 
-import seaborn as sns               # Importing the seaborn library for creating statistical graphics.    
-from wordcloud import WordCloud     # Importing the WordCloud library for generating word clouds.   
-import numpy as np                  # Importing the numpy library for numerical operations.
-from scipy import stats             # Importing the stats module from scipy for statistical analysis.    
-import statsmodels.api as sm        # Importing the statsmodels library for statistical modeling and analysis.
+import pandas as pd                            # Importing the pandas library for working with datasets.
+import matplotlib.pyplot as plt                # Importing the matplotlib library for creating visualizations. 
+import seaborn as sns                          # Importing the seaborn library for creating statistical graphics.    
+from wordcloud import WordCloud, STOPWORDS     # Importing the WordCloud library for generating word clouds.   
+import numpy as np                             # Importing the numpy library for numerical operations.
+from scipy import stats                        # Importing the stats module from scipy for statistical analysis.    
+import statsmodels.api as sm                   # Importing the statsmodels library for statistical modeling and analysis.
 
-sns.set_style("whitegrid")          # Setting the style for seaborn plots to "whitegrid" for better aesthetics. 
+sns.set_style("whitegrid")                     # Setting the style for seaborn plots to "whitegrid" for better aesthetics. 
 
 
 
@@ -99,8 +99,15 @@ dislikes_column = "What do you dislike about living on campus?"
 # Combine all text responses into one string.
 text = " ".join(df[dislikes_column].dropna().astype(str))
 
+# Define stopwords to exclude common words that don't add much meaning to the word cloud.
+custom_stopwords = set(STOPWORDS)
+custom_stopwords.update(["living", "campus", "like", "dislike", "people", "residence", 
+                         "hall", "dorms", "dormitory", "options", "sometimes", "much", "lot", "really", 
+                         "usually", "schedule", "yet", "room", "general", "ridiculous", "odd", "used", 
+                         "random", "motivation", "many"])
+
 # Generates the word cloud.
-word_cloud = WordCloud(width = 800, height = 400, background_color = "white").generate(text)
+word_cloud = WordCloud(width = 800, height = 400, background_color = "white", stopwords=custom_stopwords).generate(text)
 
 # Displays the word cloud.
 plt.figure(figsize=(10,5))
