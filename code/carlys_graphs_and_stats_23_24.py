@@ -28,7 +28,9 @@ df[belonging_column].plot(
 plt.title("Distribution of Sense of Belonging")
 plt.xlabel("Belonging Rating (1-10)")
 plt.ylabel("Number of Students")
+plt.savefig("belonging_histogram.png", dpi=300, bbox_inches='tight')  
 plt.show()
+plt.close()
 
 
 
@@ -44,8 +46,9 @@ plt.title("Overall Housing Satisfaction")
 plt.xlabel("Satisfaction Level")
 plt.ylabel("Number of Students")
 plt.xticks(rotation = 45)
+plt.savefig("housing_satisfaction_bar.png", dpi=300, bbox_inches='tight')  
 plt.show()
-
+plt.close()
 
 
 # Graph three, stack bar chart - community belonging question (likert).
@@ -60,7 +63,9 @@ plt.title("Sense of Community in Residence Halls")
 plt.xlabel("Response (1-5)")
 plt.ylabel("Number of Students")
 plt.xticks(rotation = 45)
+plt.savefig("community_belonging_bar.png", dpi=300, bbox_inches='tight')
 plt.show()
+plt.close()
 
 
 
@@ -76,7 +81,9 @@ plt.title("Feeling Safe Walking Alone at Night")
 plt.xlabel("Response (1-5)")
 plt.ylabel("Number of Students")
 plt.xticks(rotation = 45)
+plt.savefig("safety_at_night_bar.png", dpi=300, bbox_inches='tight')
 plt.show()
+plt.close()
 
 
 
@@ -89,7 +96,9 @@ plt.title("Sense of Belonging by Residence Hall")
 plt.xlabel("Residence Hall")
 plt.ylabel("Belonging Rating (1-10)")
 plt.xticks(rotation = 45)
+plt.savefig("belonging_by_hall_boxplot.png", dpi=300, bbox_inches='tight')
 plt.show()
+plt.close()
 
 
 
@@ -114,7 +123,9 @@ plt.figure(figsize=(10,5))
 plt.imshow(word_cloud, interpolation = 'bilinear')
 plt.axis("off")
 plt.title("Common Dislikes About Living on Campus")
+plt.savefig("dislikes_wordcloud.png", dpi=300, bbox_inches='tight')
 plt.show()
+plt.close()
 
 
 print("\n" + "="*50)
@@ -211,7 +222,9 @@ print(f"{percent_low:.1f}% of students report belonging 5 or lower.")
 sns.heatmap(df[correlation_columns].corr(), annot=True, cmap = "pink")
 plt.title("Correlation Matrix")
 plt.title("Correlation Matrix")
+plt.savefig("correlation_heatmap.png", dpi=300, bbox_inches='tight')
 plt.show()
+plt.close()
 
 
 
