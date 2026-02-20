@@ -1,0 +1,57 @@
+RESIDENCE LIFE SURVEY SUMMARY (2023-2024)
+==================================================
+
+=== Top 10 Dislike Themes ===
+loud: 12
+nothing: 11
+rooms: 7
+noise: 6
+small: 6
+expensive: 6
+kitchen: 6
+parking: 5
+feel: 5
+food: 5
+
+=== Descriptive Statistics ===
+Mean belonging: 7.70
+Median belonging: 8.00
+Mode belonging: 8.00
+Standard deviation belonging: 1.58
+Minimum belonging: 1.00
+Maximum belonging: 10.00
+
+9.4% of students report belonging 5 or lower.
+
+=== Key Predictors of Belonging ===
+Please read the following statements reg...
+  Coefficient: 0.685
+  P-value: 0.0
+
+Please read the following statements reg...
+  Coefficient: -0.125
+  P-value: 0.084
+
+Please read the following statements reg...
+  Coefficient: 0.336
+  P-value: 0.001
+
+Please read the following statements reg...
+  Coefficient: 0.184
+  P-value: 0.017
+
+Please read the following statements reg...
+  Coefficient: 0.259
+  P-value: 0.0
+
+Model R-squared: 0.360
+
+=== Belonging by Residence Hall ===
+Hull Apartments: 7.88
+Hull Suites: 7.62
+Knudsen Hall: 7.45
+L Apartments: 7.72
+Langrock Suites: 7.97
+Nielsen Hall: 7.34
+
+% Positive community perception: 63.2%
