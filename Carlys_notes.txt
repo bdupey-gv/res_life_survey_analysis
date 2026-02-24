@@ -1,0 +1,89 @@
+TODO for Carly:
+    - Build graphs in Tableu
+    - Why do people feel unsafe at night? - Inviestiage rows AG - AK
+        - "The security guards here would not have a single clue on what to do if something serious were to happen."
+        - "Campus security is really lacking."
+        - "Campus security hasn't been very dependable for me. They are also very unprofessional."
+        - "Campus security doesn't seem like they know what do do during most circumstances. They make things worse during room incidenct."
+        - "More campus saftey measurments, mostly at night."
+        - "Campus security tends to walk around and check stickers late at night in all black and until you spot their car it can be scary."
+        - "Have compus security focus more on keeping students safe."
+        - "Sometimes it doesn't always feel safe with what goes around on campus."
+        - "Not enoough lights outside, safety measures could be better around Grand View."
+    
+    - Why do the 6 people who have no sense of belonging feel this way? - Investigate column BE
+        - There are 6 people who marked "No sense of belonging or connect at Grand View at all" when asked 
+        - "What are the main areas that positively impact your sense of belonging / connection to Grand View University" column BECould you investigate these 6 individuals? Sounds like they might be at risk and I'd be interested to know what else they have to say. 
+        Rows: 
+            42 - Sophmore, 3-4 semetsers, not 21, is an athlete, Hull Suites, disagrees on all RA things, only enjoyed the food, and 1/10 on sense of belonging. 
+            88 - Teegan Germann, Sophmore, 3-4 semesters, not 21, is an athlete, Hull Suites, strongly disagress on all RA things, Neutral on everything else, 5/10 on sense of belonging. - Did not fill out survery the following year.
+            116 - Freshman, 1-2 semesters, not 21, not an athlete, Knudsen, agreed for most of all RA things, diasgree/neutral on residence life staff, likes being around people and the programs. Bathrooms weren't cleaned regularly. 4/10 on belonging. 
+            274 - Saige Mayfield, Sophmore, 1-2 semesters, is 21, not an athlete, Longrock Suites, agrees/strongly disagrees on all RA things, likes residence hall staff, enjoyed one event. Wants more inclusions and fun activites. Mixed feelings about residence life and servies. Mold in bathrooms non matter how many times cleaned. 4/10 - came back the following year.
+            291 - Gabriel Gonzales, Freshman, 1-2 semesters, not 21, is an athlete, Nielsen Hall, strongly agrees on all RA things, strongly disagree on all residence life staff, doesn't know the director?, doesn't like programming, wants more games and chairs, room temperatures are an issue, bathrooms aren't clean, 4/10 - did not fill out survey the following year. 
+            319 - Lainey Sincalir, Freshman, 1-2 semesters, not 21, not an athelte, Langrock Suites, strongly agrees on everything, wants more seating, 8/10
+
+    - What are some of the comments/issues people are saying about the food quility, variety, and value?
+        - Food commnets: nasty, repedative, bad quality, bad GF options, wants fresh fruits and veggies, 
+                         cold food, makes people sick, wants fresh meat, everyone hates the chicken, want more protein, 
+                         bad weekend food, too expensive for the quality, and unhealthy foods too many
+
+    - What are some of the comments/issues with the facilities?
+        - Facility comments: lots of issues with laundry, maintenance is slow, cleanliness is low, knuden (roach,es mold, and mice), bad wifi, bad trashr rooms, 
+        - "It genuinely looks like a prison here" - freshman from nielsen hall
+        - "Free laundry"
+        - Students want the residents halls to be cleaned each summer, speciffically the carpet. 
+        - "Maintenance orders never get done."
+        - "Clean the halls over the summer!!! There was a used tampon in out drawer when we moved in this semester."
+        - "Need to actually conduct maintenance, cleaning, and upkeep on the residence halls."
+        - "Improve wifit connectivity and consistency."
+        - "Trash rooms need consistently cleanded, internet needs imporving, and laundry need looked at."
+        - "Maintenance needs to do a better job all around."
+
+    - How is the residence life staff responsiveness?
+        - "Multiple times I've tried to get in contract with res life through different means and never had a response or I would get a very late response."
+        - "I submitted a work order and it was marked off as completed without being completed."
+
+    - How is the overall RA engagement and programming going?
+        - Good 
+        - "I barley got to know anyone because we didn't do any floor events."
+
+    - Do students feel like they belong?
+        - Yes, lots of them say there is a greate sense of community.
+
+    - Why do upperclassmen feel less connected?
+        - 
+
+    - What weekend activites do students want?
+        - Game night, more bingo
+        - Fitness program or club
+        - More overall events. 
+
+    - What are some of the positive comments about REC/SAC, mentorships, and athletics?
+        - "I enjoyed getting to hang out with my friends outside of school, but also meet new people."
+        - "It was very inclusive and fun."
+        - "I really enjoy the campus culture."
+
+    - Why does the L apartments have the lowest saftey score? 
+        - 71 0f 319 participants were from there. 
+        - It could be because they are on the edge of campus.
+        - Because they are closest to SE 14th. 
+        - Comments about saftey: 
+
+    - Why does Knudsen have the highest saftey score?
+        - It could be because they are in the center of campus, so it feels safer.
+        - Comments about Knudsen: very messy, cockroaches, mold, overflowing trashcans, and mice. 
+        - "Bathrooms in Knudsen have black mold and hasn't been taken care of."
+        - 
+
+    - Why does Nielsen hall have the lowest facilites, community, and residence staff scores?
+        - Comments about Nielsen:
+
+    - Why do the Hull Apartments have a lower than average scores, speciffically the RA's?
+        - Leadership and problem solving issues. 
+        - Comments about Hull: 
+
+    - Positive comments:
+        - "I have neveer had any issues with the RA's, and they have only helped me."
+        - "The RA's here at GVU are the best people to rely on for any problems that you face in general!"
+        - "My RA is super nice and gives out campus-wide information which is very helpful."
+        - "
