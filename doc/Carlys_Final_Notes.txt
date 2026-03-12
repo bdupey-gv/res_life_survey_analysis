@@ -1,27 +1,46 @@
 FINAL RESIDENT LIFE ANALYSIS NOTES
 
+
+OPERATION PERFORMANCE:
 Most Important Factors That Need Change:
     - Saftey - speciffically at night
         - "The security guards here would not have a single clue on what to do if something serious were to happen."
         - "Campus security doesn't seem like they know what do do during most circumstances. They make things worse during room incidenct."
-        - "Not enoough lights outside, safety measures could be better around Grand View."
-
+        - "Not enoough lights outside, safety measures could be better around Grand View." <---- Ben: What building did this person live in? 
+	- Ben: "Safety scores at Grand View are our highest score. But we could achieve small wins through adding lights outside."
     - Laundry - speciffically the cost 
         - Students want free laundry
         - The laundry machines tend to be always broken
         - Students think the cost of laundry is very high
-
     - Cleanliness - speciffically the shared bathrooms 
         - "Clean the halls over the summer!!!"
         - "Trash rooms need consistently cleanded, internet needs imporving, and laundry need looked at."
-        - Lots of mold in the bathrooms
+        - Lots of mold in the bathroomsZ
+
+	- Ben: "Facilities scores are our biggest area of improvement, specifically in Nielsen / Knudsen. The main concerns with facilities were related to room cleanliness upon move-in and laundry machines" Also maybe see if you can do research around schools offering "Free laundry", i.e. packaged into tuition. 
+
+
 
     - Dining hall experiences - speciffically the quality of food
         - Students want fresh meat, fruits, and vegetabales
         - The food is making students sick
         - There isn't enough dietary restriction options
+	- Ben: "While there is no score associated with dining experience, students reported X in their freeform responses.."
 
+STUDENT SUCCESS & RETENTION DRIVERS 
     - Student activites - speciffically more events
         - Game night, more bingo
         - Fitness program or club
         - More overall events
+
+- Ben: Strong community signals 
+# Very strong signals
+# Having a mentor on campus shows the highest association with community belonging.
+# Residential community experience is a major driver of connection.
+# REC/SAC events and intramural participation are strongly associated with higher community scores.
+# Positive relationships with coaches and structured team environments strengthen belonging.
+# Athletic participation is the dominant connection pathway due to both strong scores and high participation.
+
+STATEGIC PLANNING: 
+
+If there are comments about meal plan satisfaction that are significant, put those results there. 
