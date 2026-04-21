@@ -1,0 +1,43 @@
+row_index,question,text,ra_mention,support_or_help,negative_tone,staffing_continuity,ra_signal
+0,Please provide any additional feedback,"Cost of the plan is a lot for very repetitive choices, but staff are very friendly",False,False,False,False,False
+1,Please share any additional comments about your experience with your RA or any other RAs.,Thomas is great!,False,False,False,False,False
+1,Please provide any suggestions on what Grand View could do to improve/update any physical space in the residence halls.,Comfy seating in the lounge,False,False,False,False,False
+1,"Please provide any additional feedback regarding campus safety, maintenance, or facilities.",Fix the windows please,False,False,False,False,False
+1,Please provide any additional feedback,More options than pasta,False,False,False,False,False
+2,Please provide any suggestions on what Grand View could do to improve/update any physical space in the residence halls.,The carpet is really old and so are the windows,False,False,False,False,False
+2,"Please provide any additional feedback regarding campus safety, maintenance, or facilities.",Better seating for first floor langrock,False,False,False,False,False
+11,Please share any additional comments about your experience with your RA or any other RAs.,"My RA is Thomas, and he has been nice.",True,False,False,False,False
+11,Please provide any suggestions on what Grand View could do to improve/update any physical space in the residence halls.,In the suites it would be nice for a pool table/ pingpong table,False,False,False,False,False
+11,"Please provide any additional feedback regarding campus safety, maintenance, or facilities.","The laundry room is also full, but it seems like they dont dry well",False,False,False,False,False
+11,Please provide any additional feedback on GV dining.,"I like it, Its just hard to justfity the price",False,False,True,False,False
+13,Please share any additional comments about your experience with your RA or any other RAs.,Couldn’t even tell you what he looks like,False,False,False,False,False
+14,Please share any additional comments about your experience with your RA or any other RAs.,Great RA,True,False,False,False,False
+14,"Please share any additional comments about your experience with Residence Life staff members, ( HDs, Assc. Director, & Director of Residence Life).",N/a,False,False,False,False,False
+14,Please share any additional suggestions for how Residence Life could improve our programs and events.,Na,False,False,False,False,False
+14,Please provide any suggestions on what Grand View could do to improve/update any physical space in the residence halls.,Sometimes it smells or mold growing,False,False,False,False,False
+14,"Please provide any additional feedback regarding campus safety, maintenance, or facilities.",N/a,False,False,False,False,False
+14,Please provide any additional feedback,Some days it seems careless. But I understand it can’t always be perfect,False,False,False,False,False
+25,Please share any additional comments about your experience with your RA or any other RAs.,My RA is the best,True,False,False,False,False
+25,Please share any additional suggestions for how Residence Life could improve our programs and events.,Make them on weekends,False,False,False,False,False
+27,Please provide any additional feedback..1,Maybe more redbull options rather than monster and more syrup flavors,False,False,False,False,False
+32,Please provide any suggestions on what Grand View could do to improve/update any physical space in the residence halls.,keep washing machines in order,False,False,False,False,False
+32,Please provide any additional feedback,different options at breakfast and not the same things every other day.,False,False,True,False,False
+32,Please provide any additional feedback.1,healthier snack options,False,False,False,False,False
+39,Please share any additional suggestions for how Residence Life could improve our programs and events.,More small perks/activities to get people involved,False,False,False,False,False
+39,Please provide any suggestions on what Grand View could do to improve/update any physical space in the residence halls.,"Fix machines in laundry room, some dryers don’t work at all. Add something to do in the 3rd floor langrock lounge- (ping pong or pool or foosball tables)",False,False,False,False,False
+39,Please provide any additional feedback..1,More mocktail drinks!,False,False,False,False,False
+47,Please share any additional comments about your experience with your RA or any other RAs.,He was very helpful anytime I needed help!,False,True,False,False,False
+53,Please provide any suggestions on what Grand View could do to improve/update any physical space in the residence halls.,Have the washers and dryers work,False,False,False,False,False
+53,Please provide any additional feedback.,Love the potato pizza,False,False,False,False,False
+57,Please provide any suggestions on what Grand View could do to improve/update any physical space in the residence halls.,The langrock laundry room needs better washers and dryers,False,False,False,False,False
+72,Please provide any suggestions on what Grand View could do to improve/update any physical space in the residence halls.,The laundry room always has washers and dryers that are broken.,False,False,False,False,False
+76,Please provide any suggestions on what Grand View could do to improve/update any physical space in the residence halls.,Stronger dryers in the laundry room,False,False,False,False,False
+94,Please share any additional comments about your experience with your RA or any other RAs.,Brexton is very reliable and easy to get in contact with when needed.,False,False,False,False,False
+94,Please provide any suggestions on what Grand View could do to improve/update any physical space in the residence halls.,washers and dryers are the main issue they didnt work very well,False,False,False,False,False
+101,Please share any additional comments about your experience with your RA or any other RAs.,I never talked to my RA and didn’t feel comfortable talking to him anyways,True,False,True,False,True
+101,Please provide any suggestions on what Grand View could do to improve/update any physical space in the residence halls.,Make the lounge more fun and engaging to hang out in,False,False,False,False,False
+101,"Please provide any additional feedback regarding campus safety, maintenance, or facilities.",Maintenance has never came to fix stuff in our room and we need things fixed,False,False,True,False,False
+104,"Please provide any additional feedback regarding campus safety, maintenance, or facilities.",Better wifi,False,False,False,False,False
+109,Please share any additional suggestions for how Residence Life could improve our programs and events.,More events on Friday nights,False,False,False,False,False
+109,Please provide any suggestions on what Grand View could do to improve/update any physical space in the residence halls.,"Maintenance requests get in faster, we haven’t gotten our things fix yet by maintenance",False,False,False,False,False
+109,"Please provide any additional feedback regarding campus safety, maintenance, or facilities.","Maintenance requests get in faster, we haven’t gotten our things fix yet by maintenance",False,False,False,False,False
